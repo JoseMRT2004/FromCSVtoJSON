@@ -1,0 +1,51 @@
+id,nombre,email,telefono,ciudad,pais,edad,salario,empleado,fecha_registro_
+1,juan perez,juan.perez@email.com,+1234567890,ciudad de mexico,mexico,32,45000,true,2022-01-15
+2,maria garcia,maria.garcia@email.com,+1987654321,madrid,espana,28,52000,true,2021-11-23
+3,john smith,john.smith@email.com,+1122334455,nueva york,estados unidos,45,75000,true,2020-05-30
+4,ana lopez,ana.lopez@email.com,+1555666777,buenos aires,argentina,29,38000,true,2022-03-10
+5,carlos rodriguez,carlos.rodriguez@email.com,+1444333222,bogota,colombia,35,42000,false,2021-07-19
+6,laura martinez,laura.martinez@email.com,+1777888999,santiago,chile,31,48000,true,2022-02-14
+7,robert johnson,robert.johnson@email.com,+1666999888,los angeles,estados unidos,42,68000,true,2019-12-05
+8,isabel gonzalez,isabel.gonzalez@email.com,+1888222333,lima,peru,27,35000,true,2022-04-18
+9,miguel hernandez,miguel.hernandez@email.com,+1999111222,caracas,venezuela,38,40000,false,2021-09-27
+10,sofia ramirez,sofia.ramirez@email.com,+1222333444,monterrey,mexico,26,37000,true,2022-05-22
+11,david brown,david.brown@email.com,+1333444555,londres,reino unido,33,55000,true,2020-08-14
+12,elena sanchez,elena.sanchez@email.com,+1666777888,barcelona,espana,30,49000,true,2021-10-30
+13,james wilson,james.wilson@email.com,+1444555666,chicago,estados unidos,47,72000,false,2018-06-11
+14,carmen flores,carmen.flores@email.com,+1777999888,quito,ecuador,29,36000,true,2022-06-05
+15,daniel kim,daniel.kim@email.com,+1888999000,seul,corea del sur,34,58000,true,2020-11-19
+16,andrea torres,andrea.torres@email.com,+1999000111,medellin,colombia,31,41000,true,2021-12-25
+17,michael taylor,michael.taylor@email.com,+1111222333,miami,estados unidos,39,63000,true,2019-09-03
+18,patricia ruiz,patricia.ruiz@email.com,+1222444666,guadalajara,mexico,28,39000,false,2022-07-12
+19,thomas anderson,thomas.anderson@email.com,+1333555777,sidney,australia,41,67000,true,2020-03-28
+20,claudia vargas,claudia.vargas@email.com,+1444666888,san jose,costa rica,32,44000,true,2021-08-07
+21,richard martin,richard.martin@email.com,+1555777999,toronto,canada,36,60000,true,2020-07-15
+22,luisa castillo,luisa.castillo@email.com,+1666888000,panama,panama,27,34000,false,2022-08-19
+23,christopher lee,christopher.lee@email.com,+1777000111,singapur,singapur,43,71000,true,2019-04-22
+24,veronica castro,veronica.castro@email.com,+1888111222,montevideo,uruguay,30,43000,true,2021-06-13
+25,william clark,william.clark@email.com,+1999222333,boston,estados unidos,38,59000,true,2020-10-09
+26,rosa mendez,rosa.mendez@email.com,+1111333444,tegucigalpa,honduras,29,37000,false,2022-09-01
+27,jennifer hall,jennifer.hall@email.com,+1222555666,san francisco,estados unidos,35,65000,true,2020-01-17
+28,jorge silva,jorge.silva@email.com,+1333666777,asuncion,paraguay,33,40000,true,2021-05-24
+29,kevin white,kevin.white@email.com,+1444777888,dublin,irlanda,40,62000,true,2019-11-08
+30,gabriela ortega,gabriela.ortega@email.com,+1555888999,managua,nicaragua,26,35000,false,2022-10-15
+31,paul harris,paul.harris@email.com,+1666999000,auckland,nueva zelanda,37,57000,true,2020-12-12
+32,diana reyes,diana.reyes@email.com,+1777111222,san salvador,el salvador,31,42000,true,2021-04-05
+33,george king,george.king@email.com,+1888222333,amsterdam,paises bajos,44,69000,true,2018-08-20
+34,monica herrera,monica.herrera@email.com,+1999333444,guatemala,guatemala,28,38000,false,2022-11-23
+35,steven scott,steven.scott@email.com,+1111444555,oslo,noruega,39,64000,true,2019-07-01
+36,teresa rios,teresa.rios@email.com,+1222666777,cali,colombia,32,45000,true,2021-03-19
+37,edward green,edward.green@email.com,+1333777888,estocolmo,suecia,46,73000,true,2018-03-15
+38,alejandra morales,alejandra.morales@email.com,+1444888999,barranquilla,colombia,29,39000,false,2022-12-07
+39,brian adams,brian.adams@email.com,+1555999000,copenhague,dinamarca,42,68000,true,2019-02-25
+40,silvia pena,silvia.pena@email.com,+1666000111,valencia,espana,34,47000,true,2020-09-11
+41,ronald baker,ronald.baker@email.com,+1777111222,bruselas,belgica,37,61000,true,2020-04-03
+42,carolina guzman,carolina.guzman@email.com,+1888222333,maracaibo,venezuela,30,41000,false,2023-01-18
+43,jason nelson,jason.nelson@email.com,+1999333444,viena,austria,41,66000,true,2019-10-27
+44,adriana jimenez,adriana.jimenez@email.com,+1111555666,porto alegre,brasil,33,46000,true,2021-01-14
+45,eric carter,eric.carter@email.com,+1222666777,paris,francia,45,70000,true,2018-05-09
+46,beatriz luna,beatriz.luna@email.com,+1333777888,rio de janeiro,brasil,28,40000,false,2023-02-05
+47,donald mitchell,donald.mitchell@email.com,+1444888999,munich,alemania,38,59000,true,2020-06-21
+48,olga diaz,olga.diaz@email.com,+1555999000,sao paulo,brasil,35,48000,true,2021-02-28
+49,mark roberts,mark.roberts@email.com,+1666000111,milan,italia,43,67000,true,2019-03-12
+50,natalia romero,natalia.romero@email.com,+1777111222,valparaiso,chile,31,43000,false,2023-03-15
