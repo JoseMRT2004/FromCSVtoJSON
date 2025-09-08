@@ -6,6 +6,13 @@ import os
 import unicodedata
 import re
 
+# from enum import Enum
+
+# class SupportedFormats(Enum):
+#     CSV = ".csv"
+#     JSON = ".json"
+
+
 # ========================================
 #    CLASE ABSTRACTA PRINCIPAL            #
 # ========================================
@@ -181,9 +188,11 @@ class ExampleUsage:
     @staticmethod
     def run():
         try:
-            success = FileConverter.convert("test.csv", "output.json")
-            print("✅" if success else "❌")
-            
+            success = FileConverter.convert("output.json","Notion.csv")
+            if success:
+                print("✓ Conversion successful! File saved as output.json")
+            else:
+                print("✗ Conversion failed. Please check the input file format.")
         except Exception as e:
             print(f"Error: {e}")
             
